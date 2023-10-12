@@ -1,4 +1,4 @@
-/**
+/*
  * Send effort commands and log in the background.
  *
  * For more information, go to http://docs.hebi.us/tools.html#cpp-api
@@ -7,7 +7,7 @@
  *
  * HEBI Robotics
  * September 2018
- */
+*/
 
 #include <iostream>
 #include <chrono>
