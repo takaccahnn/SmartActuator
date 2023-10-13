@@ -9,7 +9,7 @@ lookup = hebi.Lookup()
 sleep(2)
  # モジュールがネットワークに登録されるのを待つために2秒間スリープします
 
-group = lookup.get_group_from_names(["Family"], ["Name"]) 
+group = lookup.get_group_from_names(["X8-9"], ["X-81102"]) 
 # 特定のファミリ名と名前を持つモジュールからなるグループを取得します
 
 if group is None: 
