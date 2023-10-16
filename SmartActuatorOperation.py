@@ -1,4 +1,5 @@
-import hebi 
+import matplotlib
+import hebi
 # HEBI RoboticsのPython APIをインポートします
 from time import sleep 
 # sleep関数をインポートします
